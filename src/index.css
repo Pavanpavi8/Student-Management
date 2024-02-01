@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    
+    border: 2px solid;
+}
+img{
+height: 60px;
+}
+.navigationbar{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid;
+    height: 70px;
+}
+.menu li{
+    display: flex;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    gap: 50px;
+    text-decoration-line: none ;
+}
